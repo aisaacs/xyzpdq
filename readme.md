@@ -1,5 +1,7 @@
 # `xyzpdq`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/xyzpdq.svg)](https://greenkeeper.io/)
+
 XYZ lookup that is pretty dang quick.
 
 ## Usage
