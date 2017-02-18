@@ -8,7 +8,7 @@
     "start": "jest --watch"
   },
   "dependencies": {
-    "bitgeo": "^0.8.0",
+    "bitgeo": "git@github.com:aisaacs/bitgeo.git#cfd6b262736b0e27c1d68726acf2cf988c7a6d9c",
     "geofunc": "^0.1.0"
   },
   "devDependencies": {
